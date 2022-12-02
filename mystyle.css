@@ -7,6 +7,11 @@ h1 {
   font-family: Georgia;
 
 }
+.header li {
+  display: inline;
+  padding-right: 2.22rem;
+}
+
 body{
   background-color: lightblue;
 }
